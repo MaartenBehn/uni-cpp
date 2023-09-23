@@ -23,8 +23,8 @@ int main() {
   for (it = m.begin(); it != m.end(); it++)
     {
       std::cout << it->first    // string (key)
-		<< ':'
-		<< it->second   // string's value 
-		<< std::endl;
+        << ':'
+        << it->second   // string's value 
+        << std::endl;
     }
 } 
