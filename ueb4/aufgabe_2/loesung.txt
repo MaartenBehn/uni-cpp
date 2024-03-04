@@ -1,0 +1,7 @@
+a) 4 byte
+b) 4 byte
+c) 32 byte
+d) 48 byte
+e) 5 byte
+f) 6 byte
+g) 4 byte
